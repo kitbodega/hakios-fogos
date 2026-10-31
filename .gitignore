@@ -1,0 +1,12 @@
+**/README*
+*.ipsw
+*.dmg
+*.slt
+*.apfs
+*.img
+**/xnu-deps/
+**/BUILD/
+**/rootfs/
+**/__pycache__/
+**/.git
+.DS_Store
